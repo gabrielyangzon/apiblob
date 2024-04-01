@@ -1,0 +1,6 @@
+@apiblob_HostAddress = http://localhost:5086
+
+GET {{apiblob_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
